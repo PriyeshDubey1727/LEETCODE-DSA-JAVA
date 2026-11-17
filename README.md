@@ -7,6 +7,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
@@ -24,8 +25,10 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
