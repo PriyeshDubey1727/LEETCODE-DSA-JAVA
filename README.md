@@ -7,6 +7,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -27,6 +28,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -35,6 +37,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1019-next-greater-node-in-linked-list) |
