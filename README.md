@@ -65,6 +65,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0402-remove-k-digits) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Greedy
 |  |
