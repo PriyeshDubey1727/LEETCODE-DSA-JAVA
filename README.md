@@ -11,6 +11,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 | [0739-daily-temperatures](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -36,6 +37,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 | [0739-daily-temperatures](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -53,6 +55,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 | ------- |
 | [0901-online-stock-span](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
