@@ -40,6 +40,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 | [1381-design-a-stack-with-increment-operation](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2296-design-a-text-editor](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2296-design-a-text-editor) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 | [1352-product-of-the-last-k-numbers](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1472-design-browser-history) |
+| [2296-design-a-text-editor](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2296-design-a-text-editor) |
 ## Data Stream
 |  |
 | ------- |
@@ -68,12 +70,14 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1472-design-browser-history) |
+| [2296-design-a-text-editor](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2296-design-a-text-editor) |
 ## String
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0402-remove-k-digits) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2296-design-a-text-editor](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2296-design-a-text-editor) |
 ## Greedy
 |  |
 | ------- |
@@ -87,8 +91,13 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1472-design-browser-history) |
+| [2296-design-a-text-editor](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2296-design-a-text-editor) |
 ## Math
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1352-product-of-the-last-k-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2296-design-a-text-editor) |
 <!---LeetCode Topics End-->
