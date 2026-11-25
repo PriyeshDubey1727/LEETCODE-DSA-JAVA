@@ -16,6 +16,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 | [1441-build-an-array-with-stack-operations](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2126-destroying-asteroids](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2126-destroying-asteroids) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
@@ -86,6 +87,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0402-remove-k-digits) |
+| [2126-destroying-asteroids](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2126-destroying-asteroids) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
@@ -106,4 +108,8 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 | [0735-asteroid-collision](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2296-design-a-text-editor](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2296-design-a-text-editor) |
+## Sorting
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
