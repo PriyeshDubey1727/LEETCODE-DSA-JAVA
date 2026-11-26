@@ -6,6 +6,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0735-asteroid-collision) |
@@ -34,6 +35,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0503-next-greater-element-ii) |
@@ -49,6 +51,7 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0503-next-greater-element-ii) |
@@ -112,4 +115,8 @@ Java solutions to LeetCode problems, focusing on DSA concepts, problem-solving p
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/2126-destroying-asteroids) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PriyeshDubey1727/LEETCODE-DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
